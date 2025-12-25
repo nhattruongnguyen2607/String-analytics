@@ -1,0 +1,4 @@
+service_account.json
+output_drive_merge/
+*.xlsx
+*.csv
