@@ -1,0 +1,14 @@
+# secrets / keys
+service_account.json
+.streamlit/secrets.toml
+
+# outputs
+output_drive_merge/
+downloaded_files/
+*.xlsx
+*.csv
+
+# python
+__pycache__/
+*.pyc
+.venv/
